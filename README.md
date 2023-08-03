@@ -8,7 +8,7 @@
   * Swedish imperial era ("Stormaktstiden")
   * Volgaic & finnic culture
     * I am a relatively recent descendant of Sámi - my grandma's late dad has Sámi ties
-  * Late 70's-early 2000's Queens, Bronx & Brookly rap music
+  * Late 70's-early 2000's Queens, Bronx & Brooklyn rap music
     * Pet peeve: *Rap* is the genre, *Hip-Hop* is the culture :^)
 * Systems developer
   * Favorite programming language: 8086 at&t assembler
